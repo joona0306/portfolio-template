@@ -1,6 +1,6 @@
 # 포트폴리오 템플릿
 
-- 링크
+- [사이트 바로가기 링크](https://portfolio-template-andrew.vercel.app/)
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=898080&height=180&text=My%20Portfolio&animation=fadeIn&fontColor=000000&fontSize=60" />
