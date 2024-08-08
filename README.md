@@ -1,6 +1,7 @@
 # 포트폴리오 템플릿
 
 - [사이트 바로가기 링크](https://portfolio-template-andrew.vercel.app/)
+- [파비콘 만들기](https://realfavicongenerator.net/)
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=898080&height=180&text=My%20Portfolio&animation=fadeIn&fontColor=000000&fontSize=60" />
